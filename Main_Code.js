@@ -20,5 +20,3 @@ function switchVowelsOrder(str) {
 
 console.log(switchVowelsOrder('hello')); // 'holle'
 console.log(switchVowelsOrder('world')); // 'world'
-console.log(switchVowelsOrder('a')); // 'a'
-console.log(switchVowelsOrder('aeiou')); // 'uoiea'
